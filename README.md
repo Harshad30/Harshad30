@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Harshad 👋
 
-<!--
-**Harshad30/Harshad30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | M.S. Data Science @ NJIT | Based in Harrison, NJ
 
-Here are some ideas to get you started:
+I build data pipelines, BI dashboards, and AI systems that turn 
+messy data into decisions people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent work:**
+- 🤖 Multi-agent LLM evaluation framework (Minecraft environment) — comparing Claude, GPT-4o-mini, Mistral
+- ⚡ VCT Pacific analytics pipeline — ETL + MySQL + Looker Studio coaching dashboard
+- 📈 FinTerminal — Bloomberg-inspired financial data terminal
+- 🏥 ReadmitIQ — Hospital readmission analytics
+
+**Stack:** Python · SQL · MySQL · PySpark · Looker Studio · Power BI · AWS · GCP
+
+📫 harshadhatteusa23@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/harshad-hatte-6b4a45183)
