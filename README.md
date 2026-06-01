@@ -1,17 +1,52 @@
-# Hi, I'm Harshad 👋
+# Hey, I'm Harshad 👋
 
-Data Analyst | M.S. Data Science @ NJIT | Based in Harrison, NJ
+**Data Analyst | Data Science M.S. | Building analytics & AI systems**
 
-I build data pipelines, BI dashboards, and AI systems that turn 
-messy data into decisions people actually use.
+📍 New Jersey, USA
 
-**Recent work:**
-- 🤖 Multi-agent LLM evaluation framework (Minecraft environment) — comparing Claude, GPT-4o-mini, Mistral
-- ⚡ VCT Pacific analytics pipeline — ETL + MySQL + Looker Studio coaching dashboard
-- 📈 FinTerminal — Bloomberg-inspired financial data terminal
-- 🏥 ReadmitIQ — Hospital readmission analytics
+### About Me
 
-**Stack:** Python · SQL · MySQL · PySpark · Looker Studio · Power BI · AWS · GCP
+* 📊 Data Analyst focused on ETL, BI, and analytics
+* 🤖 Interested in AI agents, RAG systems, and LLM evaluation
+* ⚡ Worked with 2B+ telemetry records at Verizon
+* 🎓 M.S. in Data Science from NJIT
+* 🌱 Currently exploring Data Engineering & Analytics Engineering
 
-📫 harshadhatteusa23@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/harshad-hatte-6b4a45183)
+---
+
+### Tech Stack
+
+```python
+Python • SQL • PySpark • MySQL
+Power BI • Looker Studio • Tableau
+AWS • GCP • BigQuery
+Scikit-Learn • PyTorch • LangChain
+```
+
+---
+
+### Featured Projects
+
+🏥 **ReadmitIQ**
+
+> Healthcare analytics platform with ML + RAG
+
+🎮 **VCT Pacific Analytics**
+
+> Automated esports analytics & coaching dashboard
+
+⛏️ **Minecraft Multi-Agent Research**
+
+> LLM agent evaluation framework using Claude, GPT, and Mistral
+
+📈 **FinTerminal**
+
+> Bloomberg-inspired financial analytics terminal
+
+---
+
+### Connect
+
+📧 [harshadhatteusa23@gmail.com](mailto:harshadhatteusa23@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/harshad-hatte
